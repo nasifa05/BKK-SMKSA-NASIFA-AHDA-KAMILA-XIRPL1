@@ -1,0 +1,158 @@
+/* Style */
+body {
+    font: 16px/28px arial, sans-serif;
+    color: rgb(60, 56, 77);
+}
+
+.header {
+    padding: 50px;
+}
+.header .judul {
+    font-size: 50px;
+    font-weight: unset;
+    color: rgb(14, 10, 10);
+}
+.header ul li {
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 10px;
+    color: salmon;
+}
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 430px;
+  }
+  div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 430px;
+  }
+  div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 430px;
+  }
+  div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 430px;
+  }
+  div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 430px;
+  }
+  div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 430px;
+  }
+  div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 430px;
+  }
+  div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 430px;
+  }
+  div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 430px;
+  }
+
+.keahlian img {
+    width: 50px;
+}
+
+.keahlian {
+    padding: 50px;
+    margin: auto;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 80%;
+}
+
+.depan {
+    opacity: 70%;
+    padding-top: 50px;
+}
+
+.depan img {
+    width: 100%;
+    z-index: -3;
+    height: 300px;
+}
+
+.struktur {
+    width: 1350px;
+}
+
+.struktur img {
+    border-radius: 50%;
+}
+
+.namaguru {
+    width: 1350px;
+}
+
+.namaguru img {
+    border-radius: 50%;
+}
+
+.struktur img {
+    width: 100px;
+    height: 90;
+}
+
+.organisasi {
+    text-align: center;
+    font-weight: lighter;
+    padding-top: 50px;
+}
+
+.organisasi h1 {
+    opacity: 80%;
+}
+
+.organisasi p {
+    opacity: 50;
+}
+
+.grid2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr
+}
+
+.footer {
+    background: black;
+    color: lavenderblush;
+    opacity: 90%;
+    padding: 20px;
+    padding-left: 120px;
+    height: max-content;
+}
+
+.footer p {
+    opacity: 30%;
+}
+
+.footer a {
+    text-decoration: none;
+    color: white
+}
